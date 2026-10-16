@@ -33,7 +33,7 @@ A local web-based media gallery for browsing, searching, previewing, and downloa
 1. Clone this repository:
 
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/sainsk2004-png/SKVaultGallery.git
    cd SKVaultGallery
    ```
 
@@ -86,3 +86,4 @@ Core gallery functionality has been tested locally, including file search, image
 ## License
 
 Choose a license before distributing this project. Until then, no reuse permissions are explicitly granted.
+
